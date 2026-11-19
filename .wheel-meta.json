@@ -1,0 +1,22 @@
+{
+  "wheel_id": 926,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-118",
+  "project": "retaining-wall-installation-brisbane-council-and-approvals-9b5d",
+  "parent_t1_ref": "qldretainingandfencing-158",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane council and approvals",
+  "intended_url": "http://retaining-wall-installation-brisbane-council-and-approvals-9b5d.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "13d666f19b223b81",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-before-you-start-481dc61db/",
+      "anchor": "this page",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
